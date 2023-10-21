@@ -8,10 +8,10 @@ This GitHub repository hosts a cutting-edge project in biomedical engineering, a
 
 ## Local Issues in Biomedical Engineering in Ghana
 The project tackles several gaps identified in the field of biomedical engineering:
-### 1. Low specificity among radiologists 
-### 2. Paucity of radiologists in Ghana 
-### 3. Long duration for diagnostics 
-### 4. High cost per utility for diagnostics 
+**1. Low specificity among radiologists **
+**2. Paucity of radiologists in Ghana **
+**3. Long duration for diagnostics **
+**4. High cost per utility for diagnostics **
 
 ## Project Gap
 To bridge these gaps, our project focuses on the following aspects:
