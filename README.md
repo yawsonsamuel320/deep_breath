@@ -5,11 +5,11 @@
 This GitHub repository hosts a cutting-edge project in biomedical engineering, aimed at addressing critical issues in COVID-19 diagnostics. We present an Artificial Intelligence-powered Chest Lesion Detector, using deep learning techniques for diagnosing COVID-19 from chest radiographic images.
 
 ## Local Issues in Biomedical Engineering in Ghana
-The project tackles several gaps identified in the field of biomedical engineering:
-**1. Low specificity among radiologists **
-**2. Paucity of radiologists in Ghana **
-**3. Long duration for diagnostics **
-**4. High cost per utility for diagnostics **
+The project tackles several gaps identified in the field of biomedical engineering:                        
+**1. Low specificity among radiologists**                         
+**2. The paucity of radiologists in Ghana**                     
+**3. Long duration for diagnostics**                      
+**4. High cost per utility for diagnostics**           
 
 ## Project Gap
 To bridge these gaps, our project focuses on the following aspects:
@@ -19,10 +19,10 @@ To bridge these gaps, our project focuses on the following aspects:
 * Creating an automated system for fast and accurate COVID-19 diagnostics.
   
 ## Project Approach
-Model used: Pre-trained VGG 16 model.
-Image preprocessing techniques.
-Software and platforms used: Python, Keras, Numpy, Pyplot.
-Dataset: Training data (2531 COVID, 7134 Normal) and Validation data (723 COVID, 2038 Normal).
+Model used: A fine-tuned version of the Pre-trained VGG 16 model.                         
+Image preprocessing techniques: VGG 16 image preprocessing                              
+Software and platforms used: Python, Keras, Numpy, Pyplot.                         
+Dataset: Training data (2531 COVID, 7134 Normal) and Validation data (723 COVID, 2038 Normal).                     
 Project Results
 * Validation accuracy: 98.6%
 * Validation precision: 98.68%
