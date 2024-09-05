@@ -1,6 +1,4 @@
 # Automated COVID-19 Diagnostics from Chest Radiographic Images
-## DeepBreath Logo
-
 ### Team DeepBreath
 
 ## Introduction
